@@ -87,7 +87,7 @@ case $n in
     echo ""
     echo -e "\n Downloading ${BEDROCK_VERSION} Bedrock server"
     
-    curl -O https://cdn.discordapp.com/attachments/957271452757921842/1005352761069678622/bedrock.tar.gz
+    curl -O https://cdn.discordapp.com/attachments/1006650120709873675/1006651699122950194/bedrock.tar.gz
     
     tar -xzvf bedrock.tar.gz
     
